@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Files](#files)
 * [Objects](#objects)
+* [JavaFX Aspects](#javafx-aspects)
 
 ## General info
 This project was created using JavaFX and Java in order to recreate the iconic PacMan 2D grid game. This was craeted using abstract files, interface files, coordinate files, object files and implemented object serialization. 
@@ -37,3 +38,12 @@ Interface files
 * Strawberry
 * Orange
 * Apple
+
+## JavaFX Aspects
+* Start Screen (start new game or resume old game)
+* Menu to restart game
+* Number of lives left
+* Score of user
+* Finishing/victory screen
+* Animations of pacman and ghosts
+* Toggle audio ex. background music, noises when eating pellets/powerups
