@@ -24,7 +24,8 @@ Interface files
 * Orange - increases score by 500 points
 * Apple - increases score by 700 points
 
-Objects 
+## Objects
+ 
 * RegularPellet
 * PowerPellet
 * PacMan
