@@ -17,9 +17,9 @@ Abstract files
 * Ghost 4
 
 Interface files
-* RegularPellet - incraeses score by 10 points
-* PowerPellet - incraeses score by 50 points
-* Cherry - incraeses score by 100 points
-* Strawberry - incraeses score by 300 points
-* Orange - incraeses score by 500 points
-* Apple - incraeses score by 700 points
+* RegularPellet - increases score by 10 points
+* PowerPellet - increases score by 50 points
+* Cherry - increases score by 100 points
+* Strawberry - increases score by 300 points
+* Orange - increases score by 500 points
+* Apple - increases score by 700 points
