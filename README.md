@@ -2,12 +2,15 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [How it works](#how-it-works)
 * [Files](#files)
 * [Objects](#objects)
 * [JavaFX Aspects](#javafx-aspects)
 
 ## General info
 This project was created using JavaFX and Java in order to recreate the iconic PacMan 2D grid game. This was created using the principles of Object Oriented Programming such as abstract files, interface files, coordinate files, object files and implemented object serialization. 
+
+## How it works
 
 ## Files
 
