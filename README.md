@@ -3,6 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [How it works](#how-it-works)
+* [How to run it](#run-it)
 * [Files](#files)
 * [Objects](#objects)
 * [JavaFX Aspects](#javafx-aspects)
