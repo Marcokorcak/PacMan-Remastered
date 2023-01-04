@@ -52,3 +52,8 @@ Interface files
 * Finishing/victory screen
 * Animations of pacman and ghosts
 * Toggle audio ex. background music, noises when eating pellets/powerups
+
+## Credits
+* https://github.com/justinZ45
+* https://github.com/madisondegrezia
+* https://github.com/SebastianS02
