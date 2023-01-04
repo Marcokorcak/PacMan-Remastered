@@ -11,6 +11,9 @@
 ## General info
 This project was created using JavaFX and Java in order to recreate the iconic Pac-Man 2D grid game. This was created using the principles of Object Oriented Programming such as abstract files, interface files, coordinate files, object files and implemented object serialization. 
 
+## Pac-Man Board
+<img src= "https://user-images.githubusercontent.com/77298953/210633982-817022d5-37b6-4e4a-abe7-056cfbd21679.png" width=30% height=30%>
+
 ## Start Screen
 <img src= "https://user-images.githubusercontent.com/77298953/210633232-6e0d9d08-2e4e-4559-8992-33d0053b7175.png" width=30% height=30%>
 
