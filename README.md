@@ -2,6 +2,12 @@
  
 ## Table of contents
 * [General info](#general-info)
+* [General info](#general-info)
+* [Pac-Man Board](#Pac-Man-Board)
+* [Pac-Man Recording](#Pac-Man-Recording)
+* [Start Screen](#Start-Screen)
+* [Pause Screen](#Pause-Screen)
+* [End Screen](#End-Screen)
 * [How it works](#how-it-works)
 * [How to run it](#run-it)
 * [Files](#files)
@@ -25,7 +31,6 @@ This project was created using JavaFX and Java in order to recreate the iconic P
 
 ## End Screen
 <img src= "https://user-images.githubusercontent.com/77298953/210633538-afe6d41b-217a-4d49-8ed6-89de871a784c.png" width=30% height=30%>
-
 
 
 ## How it works
