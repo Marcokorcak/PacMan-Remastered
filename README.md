@@ -1,5 +1,5 @@
 # PacMan
-
+ 
 ## Table of contents
 * [General info](#general-info)
 * [How it works](#how-it-works)
