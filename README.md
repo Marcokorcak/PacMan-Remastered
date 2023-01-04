@@ -2,7 +2,6 @@
  
 ## Table of contents
 * [General info](#general-info)
-* [General info](#general-info)
 * [Pac-Man Board](#Pac-Man-Board)
 * [Pac-Man Recording](#Pac-Man-Recording)
 * [Start Screen](#Start-Screen)
