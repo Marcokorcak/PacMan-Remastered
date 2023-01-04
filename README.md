@@ -20,8 +20,7 @@ This project was created using JavaFX and Java in order to recreate the iconic P
 <img src= "https://user-images.githubusercontent.com/77298953/210633982-817022d5-37b6-4e4a-abe7-056cfbd21679.png" width=30% height=30%>
 
 ## Pac-Man Recording
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/77298953/210638428-5195a762-5c21-4928-9a0a-73ec670e6520.gif)
-
+<img src= "https://user-images.githubusercontent.com/77298953/210638428-5195a762-5c21-4928-9a0a-73ec670e6520.gif" width=30% height=30%>
 
 ## Start Screen
 <img src= "https://user-images.githubusercontent.com/77298953/210633232-6e0d9d08-2e4e-4559-8992-33d0053b7175.png" width=30% height=30%>
