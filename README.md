@@ -1,4 +1,4 @@
-# Pac-Man
+# Pac-Man Remastered
   
 ## Table of contents
 * [General info](#general-info)
