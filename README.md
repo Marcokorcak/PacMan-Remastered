@@ -1,5 +1,5 @@
 # Pac-Man Remastered
-  
+   
 ## Table of contents
 * [General info](#general-info)
 * [Pac-Man Board](#Pac-Man-Board)
